@@ -472,18 +472,3 @@ Possible next improvements include adding timestamped real data, comparing alter
 
 ---
 
-## 10. Before you finish
-
-- [ ] Extracted the ZIP file.
-- [ ] Opened the project folder in VS Code.
-- [ ] Installed the Python and Jupyter extensions.
-- [ ] Created or selected the correct Python environment.
-- [ ] Installed the requirements.
-- [ ] Selected the correct notebook kernel.
-- [ ] Ran the notebook from top to bottom.
-- [ ] Read and answered the checkpoints.
-- [ ] Compared the baseline and experimental Top-5 recommendations.
-- [ ] Completed the 150–200 word exit ticket.
-- [ ] Saved the notebook after running it.
-
-**End of project guide.**
